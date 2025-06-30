@@ -18,8 +18,6 @@ Learn how to extract and combine data across two or more tables using different 
 - **Products**
 - **Payments**
 
-## 🔁 Note: MySQL doesn’t support FULL JOIN natively. You can simulate it using UNION of LEFT JOIN and RIGHT JOIN.
-
 ## 📌 Use Case
 - ✅ Retrieve customers and their orders
 - ✅ Display product details with quantity ordered
